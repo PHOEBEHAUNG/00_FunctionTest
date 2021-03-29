@@ -1,0 +1,4 @@
+編譯
+kotlinc Collections2.kt -include-runtime -d Collections2.jar
+執行
+java -jar Collections2.jar
